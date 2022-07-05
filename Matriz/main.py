@@ -5,7 +5,6 @@ n√∫meros consecutivos horizontal o vertical y si se encuentra mostrar la posici√
 final.
 """
 def matrizRandomizada():
-    #genera una matriz 5x5 con numeros random del 1 al 5
     matriz = []
     for i in range(5):
         matriz.append([])
